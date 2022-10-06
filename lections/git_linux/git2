@@ -1,0 +1,68 @@
+343  git status
+  344  git add .z
+  345  git add .
+  346  git status
+  347  git reset .idea
+  348  git status
+  349  git commit -m "First Commit"
+  350  git remote add origin https://github.com/Luzhnuy/affliate-marketing-landing.git
+  351  git status
+  352  git log
+  353  git push origin master
+  354  ls -la
+  355  cd ..
+  356  cd landing-1/
+  357  cd .
+  358  ls -la
+  359  ls -a
+  360  git status
+  361  git add .
+  362  git status
+  363  git reset .ider
+  364  git reset .idea
+  365  git status
+  366  git commit -m "correct gitignore .idea definition"
+  367  git add .
+  368  git commit -m "correct gitignore .idea definition"
+  369  cat .gitignore
+  370  git log
+  371  git push origin master
+  372  git help
+  373  git status
+  374  ls -a
+  375  git status
+  376  git checkout -b dev
+  377  git status
+  378  git add .
+  379  git commit -m "add second.html"
+  380  git push origin dev
+  381  git status
+  382  git checkout -b rrd-1
+  383  git status
+  384  git add .
+  385  git commit -m "add h1 with hello world"
+  386  git push origin rrd-1
+  387  git log
+  388  git checkout dev
+  389  cat second.html
+  390  git pull origin dev
+  391  cat second.html
+  392  git log
+  393  git checkout fc85f46be28894dc398bd79d14752b636ce4e233
+  394  git status
+  395  ls
+  396  cat second.html
+  397  git log
+  398  git checkout
+  399  git status
+  400  git checkout master
+  401  git checkout dev
+  402  git status
+  403  git log
+  404  git status
+  405  git checkout index.html
+  406  git status
+  407  git reset index.html
+  408  git checkout rrd-1
+  409  git pull origin dev
+  410  history
